@@ -1,4 +1,4 @@
-# Project5-WebGPU-Gaussian-Splat-Viewer
+# WebGPU-Gaussian-Splat-Viewer
 
 ![](images/ga_bonsai.png)
 
